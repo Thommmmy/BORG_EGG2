@@ -1,23 +1,4 @@
-h1 {
-  color: red;
-  font-family: Verdana;
-  text-align: center;
-}
-a:hover{
-  font-family: Arial;
-  color: green;
-  font-size: 40px;
-}
-h1:hover{
-  font-family: Arial;
-  color: green;
-  font-size: 40px;
-}  
-p:hover{
-  font-family: Arial;
-  color: green;
-  font-size: 40px;
-}
+
 #head {
   
 }
@@ -26,5 +7,6 @@ p:hover{
 }
   
 li {
-  display: inline
+  display: inline;
+  margin: auto  
 }
