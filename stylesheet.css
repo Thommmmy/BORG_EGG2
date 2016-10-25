@@ -4,7 +4,7 @@ h1 {
   font-family: Verdana;
   left: 50px;
 }
-h1 hover {
+selector hover h1{
   font-family: Arial;
 }
   
