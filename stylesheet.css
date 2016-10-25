@@ -18,3 +18,11 @@ p:hover{
   color: green;
   font-size: 40px;
 }
+#head {
+  display: inline
+}
+#table {
+  display: inline
+}
+  
+  
