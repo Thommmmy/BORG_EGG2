@@ -19,10 +19,12 @@ p:hover{
   font-size: 40px;
 }
 #head {
-  display: inline
+  
 }
 #list {
-  display: inline
+  
 }
   
-  
+li {
+  display: inline
+}
