@@ -8,6 +8,7 @@ a {
   text-align: center;
   font-size: 48px;
   font-family: fantasy;
+  display: inline block
 }
 #head {
   margin: 100 0 100 0;
