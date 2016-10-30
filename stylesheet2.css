@@ -8,10 +8,11 @@ a {
   text-align: center;
   font-size: 48px;
   font-family: fantasy;
-  display: inline block
+
 }
 #head {
   margin: 100 0 100 0;
+  display: inline block
 }
 #Menu {
   border: 2px solid black;
