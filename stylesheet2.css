@@ -26,8 +26,8 @@ h1 {
   vertical-align: middle;
 }
 #img {
-  margin: auto;
+  display: inline;
 }
 #img2 {
-  margin: auto;
+  display: inline;
 }
