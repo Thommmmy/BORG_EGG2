@@ -26,6 +26,6 @@ h1 {
     vertical-align: middle;
 }
 #img {
-  display: inline-block;
+  display: inline;
   position: center;
 }
