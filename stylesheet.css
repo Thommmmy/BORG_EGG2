@@ -29,6 +29,7 @@ h1 {
 #table {
   display: inline-block;
   margin: auto;
+  width: 100%
 }
 td {
   font-size: 20px
