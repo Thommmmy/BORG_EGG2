@@ -21,5 +21,7 @@ p {
 #us {
   display: inline-block;
   text-align: center;
-  vertical-align: middle;
+}
+h1 {
+    vertical-align: middle;
 }
