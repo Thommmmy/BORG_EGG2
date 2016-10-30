@@ -26,3 +26,13 @@ a {
 h1 {
     vertical-align: middle;
 }
+#table {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  font-size: 20px
+}
+th {
+  font-size: 30px
+}
