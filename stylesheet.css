@@ -28,7 +28,6 @@ h1 {
 }
 #table {
   display: inline-block;
-  text-align: center;
   margin: auto;
 }
 td {
@@ -37,6 +36,7 @@ td {
 th {
   font-size: 30px;
   text-decoration: underline;
+  text-align: center
 }
 #ut {
   font-size: 25px
