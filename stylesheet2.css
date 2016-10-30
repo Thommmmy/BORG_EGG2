@@ -27,14 +27,12 @@ a {
 h1 {
   vertical-align: middle;
 }
-#img {
-  display: inline;
-  margin: auto;
+#images {
+  text-align: center
 }
-#img2 {
-  display: inline;
-  margin: auto;
-}
-
-{
+.img {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
 }
