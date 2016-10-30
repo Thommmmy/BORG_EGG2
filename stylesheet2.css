@@ -25,3 +25,6 @@ p {
 h1 {
     vertical-align: middle;
 }
+img {
+  display: inline-block;
+}
