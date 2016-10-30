@@ -12,4 +12,7 @@ p {
 #head {
   margin: 100 0 100 0;
 }
-
+#Menü {
+  border-style: black;
+  border: 2 2 2 2;
+}
