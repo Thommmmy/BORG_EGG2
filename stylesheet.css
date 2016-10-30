@@ -3,7 +3,11 @@ a {
   color: black;
   font-size: 24px;
 }
-h1 {
+p {
   color: #bc9000;
   text-align: center;
 }
+#head {
+  margin: 100 0 100 0;
+}
+
