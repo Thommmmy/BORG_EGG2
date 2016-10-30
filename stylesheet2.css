@@ -26,10 +26,8 @@ h1 {
   vertical-align: middle;
 }
 #img {
-  position: absolute;
-  left: 100px;
+  margin: auto;
 }
 #img2 {
-  position: absolute;
-  left: 100px;
+  margin: auto;
 }
