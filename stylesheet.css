@@ -34,7 +34,8 @@ td {
   font-size: 20px
 }
 th {
-  font-size: 30px
+  font-size: 30px;
+  text-decoration: underline;
 }
 #ut {
   font-size: 25px
