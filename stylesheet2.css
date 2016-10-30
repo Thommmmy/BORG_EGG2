@@ -26,5 +26,8 @@ h1 {
   vertical-align: middle;
 }
 #img {
-  margin: 0 150 0 150;
+  float: left;
+}
+#img2 {
+  float: right;
 }
