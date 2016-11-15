@@ -9,6 +9,8 @@ a {
   font-size: 48px;
   font-family: fantasy;
   text-decoration: underline;
+  position: fixed;
+  top: 0;
 }
 #head {
   margin: 100 0 100 0;
