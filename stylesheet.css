@@ -9,11 +9,10 @@ a {
   font-size: 48px;
   font-family: fantasy;
   text-decoration: underline;
-  position: fixed;
-  top: 0;
 }
 #head {
-  margin: 100 0 100 0;
+  position: fixed;
+  top: 0;
 }
 #Menu {
   border: 2px solid black;
