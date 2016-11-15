@@ -19,7 +19,9 @@ a {
   border: 2px solid black;
   border-radius: 10px;
   background-color: #c4c4c4;
-  display: inline-block;
+  position: fixed;
+  top: 0;
+  left: 0;
 } 
 #us {
   display: inline-block;
