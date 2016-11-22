@@ -17,6 +17,11 @@ a {
 }
 #MenuOuter {
   position: fixed;
+  left: 2%;
+  top: 0;
+}
+#MenuOuter2 {
+  position: fixed;
   left: 0;
   top: 0;
 }
