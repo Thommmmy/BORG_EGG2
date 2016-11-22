@@ -13,6 +13,7 @@
 }
 
 #right {
+  position: relative;
   float: right;
   top: 15%;
 }
