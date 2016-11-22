@@ -29,3 +29,9 @@
   left: 13%;
   top: 0;
 }
+
+h1 {
+  vertical-align: middle;
+  text-align: center;
+  color: #c49c19;
+}
