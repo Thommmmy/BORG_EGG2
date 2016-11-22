@@ -1,4 +1,4 @@
-#header {
+eeee#header {
   background-color: #ededed;
   position: fixed;
   left: 0;
@@ -14,7 +14,7 @@
 
 #right {
   position: relative;
-  float: right;
+  left: 13%;
   top: 15%;
 }
 
