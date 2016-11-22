@@ -17,6 +17,7 @@
   left: 14%;
   top: 15%;
   background-color: #ffffff
+  z-index: -1;
 }
 
 #menu {
