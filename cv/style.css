@@ -38,3 +38,7 @@ h1 {
   color: #c49c19;
   font-size: 54px;
 }
+
+#text {
+  z-index: -10;
+}
