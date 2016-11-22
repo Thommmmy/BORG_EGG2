@@ -1,17 +1,17 @@
 #header {
-  background-color: ededed;
+  background-color: #ededed;
   position: fixed;
   left: 0;
   top: 0;
 }
   
 #left {
-  background-color: ededed;
+  background-color: #ededed;
   position: fixed;
   left: 0;
   top: 0;
 }
 
 #right {
-  background-color: ededed;
+  background-color: #ededed;
 }
