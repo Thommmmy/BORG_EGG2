@@ -13,19 +13,19 @@ a {
 #head {
   position: fixed;
   top: 0;
-  background-color: #cfcfd1;
+  background-color: #ededed;
 }
 #MenuOuter {
   position: fixed;
   left: 2%;
   top: 0;
-  background-color: #cfcfd1;
+  background-color: #ededed;
 }
 #MenuOuter2 {
   position: fixed;
   left: 0;
   top: 0;
-  background-color: #cfcfd1;
+  background-color: #ededed;
 }
 #Menu {
   border: 2px solid black;
