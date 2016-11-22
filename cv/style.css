@@ -21,3 +21,9 @@
   left: 0;
   top: 15%;
 }
+
+#leer {
+  position: fixed;
+  left: 13%;
+  top: 0;
+}
