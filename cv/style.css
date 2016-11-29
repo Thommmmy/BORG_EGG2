@@ -60,6 +60,11 @@ h1 {
   z-index: -10;
 }
 
+a {
+  text-decoration: none;
+  color: #c49c19;
+}
+
 @media screen and (max-width: 600px) {
   .left, .right{
     width: 100%;
