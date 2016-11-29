@@ -45,3 +45,10 @@ h1 {
 #text {
   z-index: -10;
 }
+
+@media screen and (max-width: 600px ) {
+  .left, .right{
+    width: 100%;
+  }
+}
+    
