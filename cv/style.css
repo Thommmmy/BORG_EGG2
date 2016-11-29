@@ -38,6 +38,9 @@
   vertical-align: middle;
   text-align: center;
   z-index: +30;
+  height: 15%;
+  width: 100%;
+  position: fixed;
 }
 
 h1 {
