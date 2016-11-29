@@ -34,6 +34,12 @@
   top: 0;
 }
 
+#headdiv {
+  vertical-align: middle;
+  text-align: center;
+  z-index: +30;
+}
+
 h1 {
   vertical-align: middle;
   text-align: center;
