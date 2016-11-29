@@ -1,0 +1,47 @@
+#header {
+  background-color: #ededed;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: +1;
+}
+  
+#left {
+  background-color: #ededed;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+#right {
+  position: absolute;
+  left: 14%;
+  top: 15%;
+  background-color: #ffffff
+  z-index: -1;
+}
+
+#menu {
+  position: fixed;
+  left: 0;
+  top: 15%;
+  z-index: +16;
+}
+
+#leer {
+  position: fixed;
+  left: 13%;
+  top: 0;
+}
+
+h1 {
+  vertical-align: middle;
+  text-align: center;
+  color: #c49c19;
+  font-size: 54px;
+  z-index: +30;
+}
+
+#text {
+  z-index: -10;
+}
