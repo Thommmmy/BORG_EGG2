@@ -26,6 +26,8 @@ p {
 
 img {
   height: 300px;
+  position: relative 
+  right: 15%
 }
 
 #headdiv {
