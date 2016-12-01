@@ -85,11 +85,6 @@ ul {
 
 }
 @media screen  and (min-width :630px) {
-    img {
-     height: 300px;
-     position: relative; 
-     right: -17%
-}
 }
 
 @media screen  and (min-width :630px) {
@@ -109,7 +104,7 @@ ul {
   img {
      height: 300px;
      position: relative; 
-     right: -17%;
+     left: 17%;
 }
     #menu {
     background-color: #ededed;
