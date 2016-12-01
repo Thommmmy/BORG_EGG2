@@ -10,6 +10,7 @@
   
 p {
   text-decoration: underline;
+  text-align: center;
 }
 #menu {
   position: fixed;
