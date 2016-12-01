@@ -8,7 +8,9 @@
   height: 120px;
 }
   
-
+p {
+  text-decoration: underline:
+}
 #menu {
   position: fixed;
   left: 0;
