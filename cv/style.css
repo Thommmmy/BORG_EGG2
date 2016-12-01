@@ -6,23 +6,19 @@
   z-index: +1;
   width: 100%; 
   height: 120px;
+  font-family: Calisto MT;
 }
   
 p {
   text-decoration: underline;
   text-align: center;
+  font-family: Calisto MT;
 }
 #menu {
   position: fixed;
   left: 0;
   top: 120px;
   z-index: +16;
-}
-
-#leer {
-  position: fixed;
-  left: 13%;
-  top: 0;
 }
 
 img {
@@ -57,11 +53,13 @@ h1 {
 
 h2 {
   text-decoration: underline;
+  font-family: Calisto MT;
 }
 
 #left div div p {
   font-size: 50px;
   color: #c49c19;
+  font-family: Calisto MT;
 }
 
 #text {
@@ -71,6 +69,7 @@ h2 {
 a {
   text-decoration: none;
   color: #c49c19;
+  
 }
 
 @media screen and (max-width: 575px) {
@@ -111,7 +110,7 @@ ul {
     position: fixed;
     left: 0;
     top: 120px;
-    height: 100%
+    height: 100%;
   }
   .uol {
     text-align: center
@@ -129,6 +128,7 @@ ul {
     background-color: #ededed;
     z-index: -1;
     text-align: center;
+    font-family: Calisto MT;
   }
   #menu {
     background-color: #ffffff;
@@ -138,6 +138,7 @@ ul {
     width: 100%;
     text-align: center;
     z-index: -1;
+    font-family: Calisto MT;
   }
     #left {
     background-color: #ffffff;
