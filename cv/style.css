@@ -69,14 +69,6 @@ a {
   color: #c49c19;
 }
 
-@media screen and (max-width: 600px) {
-  .left, .right{
-    width: 100%;
-  }
-}
-    
-
-  
 @media screen and (max-width: 540px) {
   h1 {
     font-size: 42px;
@@ -87,12 +79,8 @@ ul {
   font-size: 30px; 
 }
 
-@media screen  and (max-width :440px) {
-  .left, .right{
-    width:100%;
 }
-}
-@media screen  and (min-width :440px) {
+@media screen  and (min-width :575px) {
   #left {
     background-color: #ededed;
     position: fixed;
@@ -101,7 +89,7 @@ ul {
   }
 }
 
-@media screen  and (min-width :440px) {
+@media screen  and (min-width :575px) {
   #right {
     position: absolute;
     left: 35%;
