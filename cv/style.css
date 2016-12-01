@@ -24,6 +24,10 @@ p {
   top: 0;
 }
 
+img {
+  height: 300px;
+}
+
 #headdiv {
   vertical-align: middle;
   text-align: center;
