@@ -9,18 +9,13 @@
 }
   
 #left {
-  background-color: #ededed;
-  position: fixed;
-  left: 0;
-  top: 0;
+  float: left;
+  width: 100 %;
 }
 
 #right {
-  position: absolute;
-  left: 14%;
-  top: 15%;
-  background-color: #ffffff
-  z-index: -1;
+  float: right;
+  width: 100 %;
 }
 
 #menu {
@@ -91,4 +86,28 @@ a {
 
 ul {
   font-size: 30px; 
+}
+
+@media screen  and (max-width :440px) {
+  .left, .right{
+    width:100%;
+}
+}
+@media screen  and (min-width :440px) {
+  #left {
+    background-color: #ededed;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+}
+
+@media screen  and (min-width :440px) {
+  #right {
+    position: absolute;
+    left: 14%;
+    top: 15%;
+    background-color: #ffffff
+    z-index: -1;
+  }
 }
