@@ -26,8 +26,8 @@ p {
 
 img {
   height: 300px;
-  position: relative 
-  right: 15%
+  position: relative; 
+  right: -17%
 }
 
 #headdiv {
@@ -84,7 +84,11 @@ ul {
 
 }
 @media screen  and (min-width :630px) {
-
+    img {
+     height: 300px;
+     position: relative; 
+     right: -17%
+}
 }
 
 @media screen  and (min-width :630px) {
@@ -101,6 +105,11 @@ ul {
     left: 0;
     top: 120px;
   }
+  img {
+     height: 300px;
+     position: relative; 
+     right: -17%;
+}
     #menu {
     background-color: #ededed;
     position: fixed;
@@ -111,6 +120,8 @@ ul {
   .uol {
     text-align: center
   }
+
+
 }
 
 @media screen  and (max-width :630px) {
@@ -143,6 +154,11 @@ ul {
   #text {
     background-color: #ededed
   }
+}
+  img {
+  height: 300px;
+  position: relative; 
+  right: 0%
 }
 
 }
