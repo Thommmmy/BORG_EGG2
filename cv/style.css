@@ -113,20 +113,3 @@ ul {
 }
 
 
-/*davids Müll*/
-#schule {
-  position: absolute;
-  left: 210px;
-  
-}
-#laufbahn{
-  background-color:#4C5FF4;
-  margin-left: -32px;
-  padding: 10px;
-  color: white;
-}
-#hobby{
-  position: absolute;
-  left: 210px;
-  top:400px;
-}
