@@ -8,25 +8,12 @@
   height: 120px;
 }
   
-#left {
-  float: left;
-  width: 100 %;
-}
-
-#right {
-  float: right;
-  width: 100 %;
-}
 
 #menu {
   position: fixed;
   left: 0;
   top: 120px;
   z-index: +16;
-}
-
-h2 {
-  text-decoration: underline;
 }
 
 #leer {
@@ -55,8 +42,12 @@ h1 {
   right: 0%;
 }
 
-#menu div p {
-  
+#menu p {
+  font-size: 34
+}
+
+h2 {
+  text-decoration: underline;
 }
 
 #left div div p {
@@ -73,7 +64,7 @@ a {
   color: #c49c19;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 575px) {
   h1 {
     font-size: 42px;
   }
@@ -84,23 +75,65 @@ ul {
 }
 
 }
-@media screen  and (min-width :575px) {
+@media screen  and (min-width :450px) {
+
+}
+
+@media screen  and (min-width :450px) {
+  #right {
+    position: absolute;
+    left: 40%;
+    top: 120px;
+    background-color: #ffffff
+    z-index: -1;
+  }
   #left {
     background-color: #ededed;
     position: fixed;
     left: 0;
     top: 120px;
   }
-}
-
-@media screen  and (min-width :575px) {
-  #right {
-    position: absolute;
-    left: 35%;
+    #menu {
+    background-color: #ededed;
+    position: fixed;
+    left: 0;
     top: 120px;
-    background-color: #ffffff
-    z-index: -1;
+    height: 100%
+  }
+  ul {
+    text-align: center
   }
 }
 
+@media screen  and (max-width :450px) {
+  #right {
+    position: absolute;
+    left: 0%;
+    top: 450px;
+    width: 100%;
+    background-color: #ededed;
+    z-index: -1;
+    text-align: center;
+  }
+  #menu {
+    background-color: #ffffff;
+    position: absolute;
+    left: 0;
+    top: 1px;
+    width: 100%;
+    text-align: center;
+    z-index: -1;
+  }
+    #left {
+    background-color: #ffffff;
+    position: absolute;
+    left: 0;
+    top: 120px;
+    width: 100%;
+    text-align: center
+  }
+  #text {
+    background-color: #ededed
+  }
+}
 
