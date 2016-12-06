@@ -82,10 +82,6 @@ ul {
   font-size: 30px; 
 }
 
-}
-@media screen  and (min-width :630px) {
-}
-
 @media screen  and (min-width :630px) {
   #right {
     position: absolute;
